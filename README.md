@@ -8,7 +8,7 @@ This repository contains the 3 Sided Cube backend NodeJS task. We use this to as
 
 We want you to create a temperature converter using NodeJS. It needs to convert temperatures from Fahrenheit to Celsius and from Celsius to Fahrenheit.
 
-This program should be run via NodeJS's command line interpreter. It should use the Commander libary.
+This program should be run via NodeJS's command line interpreter. It should use the [Commander](https://www.npmjs.com/package/commander) libary.
 
 We would like you to use Jest to write supporting tests too.
 
@@ -25,6 +25,7 @@ We estimate this task should take you about an hour. Don't worry if you spend mo
 
 Things you shouldn't worry about:
 
+* Language - If you want to use TypeScript instead of JavaScript that's great, but it's not strictly necessary.
 * Environment - You can use a local version of NodeJS, NodeJS inside a Vagrant machine, or a NodeJS Docker image. Choose whatever you're most comfortable with!
 * Documentation - Given the small feature set you don't need to write detailed documentation. We will be able to figure out how your program works.
 * Formatting - Providing you're consistent with your approach, any formatting style is fine.
