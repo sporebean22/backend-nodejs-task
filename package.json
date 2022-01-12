@@ -1,0 +1,25 @@
+{
+  "name": "farenheit-to-celsius-temperature-converter",
+  "version": "1.0.0",
+  "description": "commander application to convert Farenheit to Celsius",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3sidedcube/backend-nodejs-task.git"
+  },
+  "author": "Dilan Ormisiar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3sidedcube/backend-nodejs-task/issues"
+  },
+  "homepage": "https://github.com/3sidedcube/backend-nodejs-task#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "colours": "^0.6.0-2",
+    "commander": "^8.3.0",
+    "jest": "^27.4.7"
+  }
+}
